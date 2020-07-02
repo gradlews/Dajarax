@@ -1,7 +1,5 @@
 # Dajarax 
 
-![Discord-Server][Помощь]
-![Mojang][Mojang]
 
 ### Стабильное ядро для Minecraft-серверов на базе версии — 1.7.10
 
@@ -43,5 +41,4 @@
 * Аварийное завершение работы ядра с ошибкой - FIND PORT
   * `Вам требуется открыть указанный порт!`
 
-[Помощь]: https://discord.gg/ttK2CCx "Discord-Server"
-[Mojang]: https://www.mojang.com/ "Mojang"
+
